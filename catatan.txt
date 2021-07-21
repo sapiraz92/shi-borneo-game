@@ -1,0 +1,3 @@
+Target
+-membuat web dasar 
+-membuat deploptment
