@@ -1,3 +1,5 @@
 Target
 -membuat web dasar 
 -membuat deploptment
+-belajar java 
+-membuat php native
